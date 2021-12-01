@@ -4,21 +4,5 @@ astunparse==1.6.3
 Jinja2==2.11.2
 joblib==0.17.0
 jsonschema==3.2.0
-jupyter==1.0.0
-jupyter-client==6.1.7
-jupyter-console==6.2.0
-jupyter-core==4.6.3
-jupyterlab-pygments==0.1.2
-Keras==2.4.3
-Keras-Preprocessing==1.1.2
-Markdown==3.3.2
-MarkupSafe==1.1.1
-mistune==0.8.4
-nbclient==0.5.1
-nbconvert==6.0.7
-nbformat==5.0.8
-nest-asyncio==1.4.1
-notebook==6.1.4
-oauthlib==3.1.0
 
 
